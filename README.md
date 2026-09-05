@@ -137,3 +137,11 @@ Motivated **Artificial Intelligence & Data Science** student passionate about so
 ⭐ **Thank you for visiting my GitHub Profile!** Feel free to reach out for collaborations or networking.
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0006-zigzag-conversion) |
+<!---LeetCode Topics End-->
