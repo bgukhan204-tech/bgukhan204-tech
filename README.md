@@ -144,4 +144,16 @@ Motivated **Artificial Intelligence & Data Science** student passionate about so
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0006-zigzag-conversion) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
