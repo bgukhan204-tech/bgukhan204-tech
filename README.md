@@ -147,6 +147,7 @@ Motivated **Artificial Intelligence & Data Science** student passionate about so
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -156,4 +157,8 @@ Motivated **Artificial Intelligence & Data Science** student passionate about so
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0217-contains-duplicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
