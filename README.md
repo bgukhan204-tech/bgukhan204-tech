@@ -147,6 +147,7 @@ Motivated **Artificial Intelligence & Data Science** student passionate about so
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -160,5 +161,10 @@ Motivated **Artificial Intelligence & Data Science** student passionate about so
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
