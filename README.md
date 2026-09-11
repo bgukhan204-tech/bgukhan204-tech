@@ -129,7 +129,7 @@ Motivated **Artificial Intelligence & Data Science** student passionate about so
 </p>
 
 <p align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/bgukhan204-tech/bgukhan204-tech/output/github-contribution-grid-lion.svg" alt="Lion GitHub Contribution Graph" />
+  <img width="98%" src="./github-contribution-grid-lion.svg" alt="Lion GitHub Contribution Graph" />
 </p>
 
 </div>

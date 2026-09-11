@@ -10,6 +10,10 @@ on:
       - main
       - master
 
+# Explicitly grant write permissions to GITHUB_TOKEN for committing & pushing
+permissions:
+  contents: write
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -18,6 +22,8 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -38,11 +44,19 @@ jobs:
         run: |
           python generate_svg.py
 
-      - name: Deploy to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: .
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and Push SVG to main branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-contribution-grid-lion.svg
+          git commit -m "chore: update lion contribution graph SVG [skip ci]" || echo "No changes to commit"
+          git push origin main
+
+      - name: Deploy to output branch
+        run: |
+          git checkout --orphan output || git checkout output
+          git rm -rf .
+          git checkout main -- github-contribution-grid-lion.svg README.md
+          git add github-contribution-grid-lion.svg README.md
+          git commit -m "deploy: update lion contribution graph SVG" || echo "No changes to commit"
+          git push origin output --force
