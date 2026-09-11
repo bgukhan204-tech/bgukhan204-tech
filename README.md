@@ -128,6 +128,10 @@ Motivated **Artificial Intelligence & Data Science** student passionate about so
   <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=bgukhan204-tech&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img width="98%" src="https://raw.githubusercontent.com/bgukhan204-tech/bgukhan204-tech/output/github-contribution-grid-lion.svg" alt="Lion GitHub Contribution Graph" />
+</p>
+
 </div>
 
 ---
