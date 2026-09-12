@@ -118,6 +118,11 @@ Motivated **Artificial Intelligence & Data Science** student passionate about so
 ### 📊 GitHub Analytics
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bgukhan204-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&bg_color=0F172A" alt="Gukhan's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgukhan204-tech&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0F172A" alt="Top Languages" />
+</div>
+
+<div align="center">
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bgukhan204-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&bg_color=0F172A" alt="Gukhan's GitHub Stats" />
