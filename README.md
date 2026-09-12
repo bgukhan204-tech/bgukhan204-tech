@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%90%8B+I'm+GUKHAN+B;AI+%26+Data+Science+Engineer;Full-Stack+Java+%26+Python+Developer;Building+Scalable+Web+%26+AI+Solutions" alt="Typing SVG" />
+<a href="https://git.io">
+  <img src="https://demolab.com" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -11,30 +11,28 @@
 
 <!-- Social & Contact Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/gukhan-b-97674a381">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:bgukhan204@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://shields.io" alt="Email Badge"/>
   </a>
-  <a href="https://github.com/bgukhan204-tech">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="GitHub Badge"/>
   </a>
 </p>
 
 ---
-
 </div>
 
 ### 💫 About Me
-
-Motivated **Artificial Intelligence & Data Science** student passionate about software engineering, intelligent systems, and scalable web solutions. Experienced in full-stack web development with **Java Spring Boot** and **React**, as well as deep learning computer vision projects built with **Python** & **TensorFlow**.
+I am a Software Engineer and final-year **B.Tech (Artificial Intelligence & Data Science)** student with hands-on experience building full-stack web applications and AI-driven systems. I have a strong foundation in secure system design, RESTful APIs, and database-driven production applications.
 
 - 🎓 **Education**: B.Tech in AI & Data Science at *V.S.B College of Engineering Technical Campus* (CGPA: 8.2)
-- 🚀 **Currently Building**: Intelligent multimedia AI systems & microservices architectures
-- 💡 **Core Expertise**: Full-Stack Development, Machine Learning, Deep Learning, Secure API Design
-- 💬 **Ask Me About**: Java Spring Security, JWT, TensorFlow, React, and Database Optimization
-- 📫 **Contact Me**: [bgukhan204@gmail.com](mailto:bgukhan204@gmail.com) | [+91 8838844579](tel:+918838844579)
+- 🚀 **Currently Seeking**: Software Engineer roles where I can build scalable, reliable software.
+- 💡 **Core Expertise**: Full-Stack Development, Secure API Design, Machine Learning Pipelines.
+- 💬 **Ask Me About**: Java Spring Security, JWT, Dynamic Microservices, React, and Database Optimization.
+- 📫 **Contact Me**: bgukhan204@gmail.com | +91 88388 44579
 
 ---
 
@@ -43,31 +41,33 @@ Motivated **Artificial Intelligence & Data Science** student passionate about so
 <div align="left">
 
 #### 🤖 AI & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data_Science-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://shields.io)
+![TensorFlow](https://shields.io)
+![Streamlit](https://shields.io)
 
-#### ⚡ Backend & Security
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=google&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+#### ⚡ Backend, Security & Databases
+![Java](https://shields.io)
+![Spring Boot](https://shields.io)
+![Spring Security](https://shields.io)
+![JWT](https://shields.io)
+![MySQL](https://shields.io)
 
-#### 🎨 Frontend & UI
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### 🔧 Tools & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+#### 🎨 Frontend & Tools
+![React](https://shields.io)
+![JavaScript](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![Render](https://shields.io)
 
 </div>
+
+---
+
+### 💼 Experience
+
+#### 💻 Software Engineering Intern (2025)
+* Developed and tested full-stack web application modules, contributing directly to frontend and backend integration workflows.
+* Streamlined system database connectivity and performed deep programmatic debugging to optimize REST API execution metrics.
 
 ---
 
@@ -76,29 +76,28 @@ Motivated **Artificial Intelligence & Data Science** student passionate about so
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🕵️ Deepfake Detection System</h3>
+      <h3 align="center">🛒 Full-Stack E-Commerce Marketplace</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        <img src="https://shields.io"/>
+        <img src="https://shields.io"/>
+        <img src="https://shields.io"/>
       </p>
       <ul>
-        <li>Engineered an AI-powered web application utilizing <b>Python</b>, <b>TensorFlow</b>, and <b>Streamlit</b> for multimedia ingestion.</li>
-        <li>Designed a dual-engine detection system with advanced reasoning algorithms to evaluate authenticity & deliver precise metrics.</li>
-        <li>Features video frame preprocessing and real-time confidence scoring.</li>
+        <li>Architected a full-stack B2C e-commerce marketplace, implementing secure role-based access control (RBAC) via Spring Security and JWT.</li>
+        <li>Integrated the <b>Razorpay Payment API</b> for end-to-end secure transaction verification workflows.</li>
+        <li>Built an interactive UI featuring map-based delivery tracking.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛒 Full-Stack E-Commerce Marketplace</h3>
+      <h3 align="center">🕵️ Deepfake Detection System</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://shields.io"/>
+        <img src="https://shields.io"/>
+        <img src="https://shields.io"/>
       </p>
       <ul>
-        <li>Architected a full-stack B2C e-commerce platform using <b>Spring Security</b> and <b>JWT</b> for role-based access control (RBAC).</li>
-        <li>Integrated <b>Razorpay API</b> for seamless online payment processing.</li>
-        <li>Built an interactive frontend featuring real-time map-based delivery tracking.</li>
+        <li>Built an AI-powered analytical dashboard utilizing a custom video-processing pipeline for high-throughput multimedia ingestion.</li>
+        <li>Designed a dual-engine structural detection model using <b>TensorFlow</b> with algorithmic confidence scoring mechanics.</li>
       </ul>
     </td>
   </tr>
@@ -107,61 +106,23 @@ Motivated **Artificial Intelligence & Data Science** student passionate about so
 ---
 
 ### 🎓 Education & Certifications
-
-- **B.Tech in Artificial Intelligence & Data Science**  
-  *V.S.B College of Engineering Technical Campus, Coimbatore* (2022 – 2026) • **CGPA: 8.2**
-- **📜 Introduction to Data Science and Artificial Intelligence** — *Infosys Springboard*
-- **📜 Cloud Computing** — *NPTEL*
+* **B.Tech in Artificial Intelligence & Data Science** — *V.S.B College of Engineering Technical Campus, Coimbatore* (2022 – 2026) | **CGPA: 8.2**
+* **📜 Introduction to Data Science and Artificial Intelligence** — *Infosys Springboard*
+* **📜 Cloud Computing** — *NPTEL*
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bgukhan204-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&bg_color=0F172A" alt="Gukhan's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgukhan204-tech&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0F172A" alt="Top Languages" />
-</div>
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bgukhan204-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&bg_color=0F172A" alt="Gukhan's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgukhan204-tech&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0F172A" alt="Top Languages" />
+<!-- GitHub Streak Stats Card (Matches the format of your requested image) -->
+<img width="85%" src="https://herokuapp.com" alt="Gukhan's GitHub Streak Stats" />
+
+<p align="center" style="margin-top: 15px;">
+  <img width="48%" src="https://vercel.app" alt="GitHub Stats" />
+  <img width="48%" src="https://vercel.app" alt="Top Languages" />
 </p>
 
-<div align="center">
-
-⭐ **Thank you for visiting my GitHub Profile!** Feel free to reach out for collaborations or networking.
-
+⭐ <b>Thank you for visiting my profile!</b> Drop a follow or check out my repositories if you find my work useful.
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0006-zigzag-conversion](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0006-zigzag-conversion) |
-## Array
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0053-maximum-subarray) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0217-contains-duplicate](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0217-contains-duplicate) |
-## Hash Table
-|  |
-| ------- |
-| [0217-contains-duplicate](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0217-contains-duplicate) |
-## Sorting
-|  |
-| ------- |
-| [0217-contains-duplicate](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0217-contains-duplicate) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0053-maximum-subarray) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0121-best-time-to-buy-and-sell-stock) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/bgukhan204-tech/bgukhan204-tech/tree/master/0053-maximum-subarray) |
-<!---LeetCode Topics End-->
