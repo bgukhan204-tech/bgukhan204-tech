@@ -1,128 +1,209 @@
-<div align="center">
+README.md
 
-<!-- Typing SVG Header -->
-<a href="https://git.io">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</a>
+# 👋 Hey, I'm Gukhan B
 
-<p align="center">
-  <b>B.Tech Student in Artificial Intelligence & Data Science</b> • <i>Coimbatore, India</i>
-</p>
+ ### `Software Engineer` • `AI & Data Science Engineer` • `Full-Stack Developer`
 
-<!-- Social & Contact Badges -->
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:bgukhan204@gmail.com">
-    <img src="https://shields.io" alt="Email Badge"/>
-  </a>
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="GitHub Badge"/>
-  </a>
-</p>
+ > Building **secure, scalable & intelligent applications** at the intersection of **Software Engineering × AI**.
 
----
-</div>
-
-### 💫 About Me
-I am a Software Engineer and final-year **B.Tech (Artificial Intelligence & Data Science)** student with hands-on experience building full-stack web applications and AI-driven systems. I have a strong foundation in secure system design, RESTful APIs, and database-driven production applications.
-
-- 🎓 **Education**: B.Tech in AI & Data Science at *V.S.B College of Engineering Technical Campus* (CGPA: 8.2)
-- 🚀 **Currently Seeking**: Software Engineer roles where I can build scalable, reliable software.
-- 💡 **Core Expertise**: Full-Stack Development, Secure API Design, Machine Learning Pipelines.
-- 💬 **Ask Me About**: Java Spring Security, JWT, Dynamic Microservices, React, and Database Optimization.
-- 📫 **Contact Me**: bgukhan204@gmail.com | +91 88388 44579
-
+ \<p align="center"\> \<a href="https://github.com/bgukhan204-tech"\> \<img src="https://img.shields.io/badge/GitHub-bgukhan204--tech-181717?style=for-the-badge&logo=github" alt="GitHub"\> \</a\> \<a href="https://www.linkedin.com/in/gukhan-b-b0b78b373"\> \<img src="https://img.shields.io/badge/LinkedIn-Gukhan%20B-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"\> \</a\> \<a href="mailto:bgukhan204@gmail.com"\> \<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"\> \</a\> \</p\>
 ---
 
-### 🛠️ Tech Stack & Skills
+ ## 🧑‍💻 About Me
 
-<div align="left">
+```
+public class Gukhan {
 
-#### 🤖 AI & Data Science
-![Python](https://shields.io)
-![TensorFlow](https://shields.io)
-![Streamlit](https://shields.io)
+    String role = "Software Engineer";
+    String education = "B.Tech AI & Data Science";
+    String location = "Coimbatore, India";
 
-#### ⚡ Backend, Security & Databases
-![Java](https://shields.io)
-![Spring Boot](https://shields.io)
-![Spring Security](https://shields.io)
-![JWT](https://shields.io)
-![MySQL](https://shields.io)
+    String[] interests = {
+        "Full-Stack Development",
+        "Artificial Intelligence",
+        "Backend Engineering",
+        "Secure System Design",
+        "Scalable Applications"
+    };
 
-#### 🎨 Frontend & Tools
-![React](https://shields.io)
-![JavaScript](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![Render](https://shields.io)
+    String[] currentlyLearning = {
+        "Advanced Spring Boot",
+        "System Design",
+        "Cloud & DevOps",
+        "Machine Learning"
+    };
 
-</div>
+    String mindset =
+        "Build it. Break it. Understand it. Improve it.";
+}
+```
+
+ - 🎓 Final-year **B.Tech Artificial Intelligence & Data Science** student
+- 💻 Passionate about **Java, Spring Boot & React**
+- 🤖 Interested in **AI-powered real-world applications**
+- 🔐 Focused on **secure authentication, APIs & backend architecture**
+- 🚀 I enjoy turning ideas into **complete, production-oriented applications**
 
 ---
 
-### 💼 Experience
+ ## ⚡ Tech Arsenal
 
-#### 💻 Software Engineering Intern (2025)
-* Developed and tested full-stack web application modules, contributing directly to frontend and backend integration workflows.
-* Streamlined system database connectivity and performed deep programmatic debugging to optimize REST API execution metrics.
+ ### 💻 Languages & Frameworks
 
----
+ \<p\> \<img src="https://skillicons.dev/icons?i=java,spring,react,python,tensorflow" alt="Languages and Frameworks"\> \</p\> ### 🗄️ Database & Backend
 
-### 📌 Featured Projects
+ \<p\> \<img src="https://skillicons.dev/icons?i=mysql,postman" alt="Database and Backend Tools"\> \</p\> ### 🛠️ Tools & Platforms
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 Full-Stack E-Commerce Marketplace</h3>
-      <p align="center">
-        <img src="https://shields.io"/>
-        <img src="https://shields.io"/>
-        <img src="https://shields.io"/>
-      </p>
-      <ul>
-        <li>Architected a full-stack B2C e-commerce marketplace, implementing secure role-based access control (RBAC) via Spring Security and JWT.</li>
-        <li>Integrated the <b>Razorpay Payment API</b> for end-to-end secure transaction verification workflows.</li>
-        <li>Built an interactive UI featuring map-based delivery tracking.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🕵️ Deepfake Detection System</h3>
-      <p align="center">
-        <img src="https://shields.io"/>
-        <img src="https://shields.io"/>
-        <img src="https://shields.io"/>
-      </p>
-      <ul>
-        <li>Built an AI-powered analytical dashboard utilizing a custom video-processing pipeline for high-throughput multimedia ingestion.</li>
-        <li>Designed a dual-engine structural detection model using <b>TensorFlow</b> with algorithmic confidence scoring mechanics.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+ \<p\> \<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,render" alt="Tools and Platforms"\> \</p\> ### 🔐 Engineering
+
+ `Spring Security` `JWT` `REST APIs` `RBAC` `API Integration` `Database Design`
 
 ---
 
-### 🎓 Education & Certifications
-* **B.Tech in Artificial Intelligence & Data Science** — *V.S.B College of Engineering Technical Campus, Coimbatore* (2022 – 2026) | **CGPA: 8.2**
-* **📜 Introduction to Data Science and Artificial Intelligence** — *Infosys Springboard*
-* **📜 Cloud Computing** — *NPTEL*
+ # 🚀 Featured Projects
+
+ ## 🛒 E-Commerce Web Application
+
+ ### `Java` • `Spring Boot` • `Spring Security` • `JWT` • `React` • `MySQL`
+
+ A full-stack B2C e-commerce platform designed with security, scalability, and user experience in mind.
+
+ ### ✨ Key Features
+
+ - 🔐 JWT-based authentication & authorization
+- 👥 Role-Based Access Control
+- 🛡️ Spring Security integration
+- 💳 Razorpay payment integration
+- 🗄️ MySQL database architecture
+- 🌐 RESTful backend APIs
+- 🗺️ Interactive map-based delivery tracking
+- ⚛️ Responsive React frontend
+
+ > **Engineering Focus:** Secure APIs + authentication + payment workflows + database-driven architecture
 
 ---
 
-### 📊 GitHub Activity & Analytics
+ ## 🧠 Deepfake Detection System
 
-<div align="center">
+ ### `Python` • `TensorFlow` • `Streamlit` • `Video Processing`
 
-<!-- GitHub Streak Stats Card (Matches the format of your requested image) -->
-<img width="85%" src="https://herokuapp.com" alt="Gukhan's GitHub Streak Stats" />
+ An AI-powered system designed to analyze multimedia content and estimate whether media is authentic or manipulated.
 
-<p align="center" style="margin-top: 15px;">
-  <img width="48%" src="https://vercel.app" alt="GitHub Stats" />
-  <img width="48%" src="https://vercel.app" alt="Top Languages" />
-</p>
+ ### ✨ Key Features
 
-⭐ <b>Thank you for visiting my profile!</b> Drop a follow or check out my repositories if you find my work useful.
-</div>
+ - 🎥 Automated video ingestion & processing
+- 🤖 TensorFlow-powered analysis
+- 🧩 Dual-engine detection architecture
+- 📊 Authenticity scoring
+- 🧠 Prediction & reasoning pipeline
+- ⚡ Streamlit-based interactive interface
+
+ > **Engineering Focus:** AI inference + multimedia processing + prediction pipelines + explainable scoring
+
+---
+
+ ## 🧩 My Engineering Approach
+
+```
+        ┌──────────────────────┐
+        │       PROBLEM        │
+        └──────────┬───────────┘
+                   ↓
+        ┌──────────────────────┐
+        │   DESIGN THE SYSTEM  │
+        └──────────┬───────────┘
+                   ↓
+        ┌──────────────────────┐
+        │      BUILD APIs      │
+        └──────────┬───────────┘
+                   ↓
+        ┌──────────────────────┐
+        │   SECURE EVERYTHING  │
+        └──────────┬───────────┘
+                   ↓
+        ┌──────────────────────┐
+        │     TEST & DEBUG     │
+        └──────────┬───────────┘
+                   ↓
+        ┌──────────────────────┐
+        │      DEPLOY 🚀       │
+        └──────────────────────┘
+```
+
+ I don't just focus on making an application **work**.
+
+ I focus on making it:
+
+ **Secure → Maintainable → Scalable → Understandable → Useful**
+
+---
+
+ ## 🔥 What I'm Currently Exploring
+
+```
++ Advanced Spring Boot Architecture
++ Microservices & System Design
++ Cloud Deployment
++ AI/ML Integration
++ Secure REST API Design
++ Performance Optimization
++ Production-ready Full-Stack Applications
+```
+
+---
+
+ ## 📊 GitHub Activity
+
+ \<p align="center"\> \<img src="https://github-readme-stats.vercel.app/api?username=bgukhan204-tech&show\_icons=true&theme=tokyonight&hide\_border=true&rank\_icon=github" height="170" alt="GitHub Stats"\> \<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgukhan204-tech&layout=compact&theme=tokyonight&hide\_border=true" height="170" alt="Top Languages"\> \</p\> \<p align="center"\> \<img src="https://streak-stats.demolab.com?user=bgukhan204-tech&theme=tokyonight&hide\_border=true" alt="GitHub Streak"\> \</p\>
+---
+
+ ## 🐍 Contribution Journey
+
+ \<p align="center"\> \<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"\> \</p\>
+---
+
+ ## 🏆 Achievements & Learning
+
+ - 🎓 **B.Tech — Artificial Intelligence & Data Science**
+- 📈 **CGPA: 8.2 / 10**
+- ☁️ **Cloud Computing — NPTEL**
+- 🤖 **Introduction to Data Science & Artificial Intelligence — Infosys Springboard**
+
+---
+
+ ## 💼 Experience
+
+ ### Software Engineering Intern — 2025
+
+ Worked on full-stack application development with exposure to:
+
+ - Frontend ↔ Backend integration
+- Database connectivity
+- REST API workflows
+- Debugging & troubleshooting
+- Application performance optimization
+
+---
+
+ ## 🤝 Let's Connect
+
+ I'm always interested in discussing:
+
+ `Software Engineering` • `AI/ML` • `Backend Development` • `System Design` • `Open Source`
+
+ \<p align="center"\> 📧 **bgukhan204@gmail.com**
+
+ 🔗 **LinkedIn:**\
+ \<a href="https://www.linkedin.com/in/gukhan-b-b0b78b373"\>\
+ linkedin.com/in/gukhan-b-b0b78b373\
+ \</a\>
+
+ 💻 **GitHub:**\
+ \<a href="https://github.com/bgukhan204-tech"\>\
+ github.com/bgukhan204-tech\
+ \</a\>
+
+ \</p\>
+---
+
+ \<p align="center"\> \<b\>⚡ Build something meaningful.\</b\> \<br\> \<sub\>Code • Learn • Ship • Repeat\</sub\> \</p\> \<p align="center"\> \<img src="https://komarev.com/ghpvc/?username=bgukhan204-tech&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views"\> \</p\>
