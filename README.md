@@ -11,7 +11,7 @@
 
 <!-- Social & Contact Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/gukhan-b-97674a381">
+  <a href="https://www.linkedin.com/in/gukhan-b-b0b78b373">
     <img src="https://img.shields.io/badge/LinkedIn-b0b78b373 ?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:bgukhan204@gmail.com">
